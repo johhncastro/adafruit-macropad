@@ -32,8 +32,7 @@ macropad.add_macro(type_text)
 
 while True:
     macropad.update()
-   ```
-    ```
+    
 # Example macro for video editing
 import adafruit_macropad
 
@@ -47,8 +46,7 @@ macropad.add_macro(split_clip)
 
 while True:
     macropad.update()
-    ```
-    ```
+    
 # Example macro for gaming
 import adafruit_macropad
 
