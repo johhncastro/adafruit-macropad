@@ -68,7 +68,7 @@ To use your custom macros, simply press the corresponding key on the Macro Pad. 
 
 To learn more about creating custom macros with the Adafruit Macro Pad, check out the following resources:
 
-Adafruit Macro Pad product page: https://www.adafruit.com/product/5128
-Adafruit Macro Pad learning guide: https://learn.adafruit.com/adafruit-macro-pad
-CircuitPython programming language: https://circuitpython.org/
-Adafruit Macro Pad library: https://github.com/adafruit/Adafruit_MacroPad
+*Adafruit Macro Pad product page: https://www.adafruit.com/product/5128
+*Adafruit Macro Pad learning guide: https://learn.adafruit.com/adafruit-macro-pad
+*CircuitPython programming language: https://circuitpython.org/
+*Adafruit Macro Pad library: https://github.com/adafruit/Adafruit_MacroPad
