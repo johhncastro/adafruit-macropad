@@ -57,11 +57,11 @@ def reload_weapon():
     macropad.keyboard.release_all()
 
 macropad.add_macro(reload_weapon)
-```
 while True:
     macropad.update()
+    ```
 
-## Usong Custom Macros
+## Using Custom Macros
 To use your custom macros, simply press the corresponding key on the Macro Pad. The Macro Pad will execute the function defined in your program, allowing you to perform tasks quickly and efficiently.
 
 ## Recources
