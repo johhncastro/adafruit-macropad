@@ -34,8 +34,6 @@ while True:
     macropad.update()
    ```
     ```
-    ```
-    ```
 # Example macro for video editing
 import adafruit_macropad
 
