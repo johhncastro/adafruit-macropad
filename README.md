@@ -71,4 +71,5 @@ To learn more about creating custom macros with the Adafruit Macro Pad, check ou
 1. Adafruit Macro Pad product page: https://www.adafruit.com/product/5128
 2. Adafruit Macro Pad learning guide: https://learn.adafruit.com/adafruit-macro-pad
 3. CircuitPython programming language: https://circuitpython.org/
-4. Adafruit Macro Pad library: https://github.com/adafruit/Adafruit_MacroPad
+4. Adafruit Macro Pad library: https://github.com/adafruit/Adafruit_MacroPad 
+5. plus hoseKat was here
