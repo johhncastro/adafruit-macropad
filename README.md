@@ -16,6 +16,12 @@ With the Adafruit Macro Pad, you can create custom macros that are tailored to y
 4. Write a program using the CircuitPython programming language that defines the functions you want your Macro Pad to perform.
 5. Upload your program to the Macro Pad using the USB-C cable.
 
+# Adafruit Macro Pad - My Macros
+1. Function Keys 
+2. github MAcros
+3. Universal Numpad
+4. Web Macros 
+
 You can create custom macros for a variety of applications, such as text editing, video editing, or gaming. Here are some examples of custom macros that you can create:
 
 ```python
